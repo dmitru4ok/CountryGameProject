@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'countryProj'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9069D61458964578845F35EF1F570881 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C9ACA681B2147558E8899B9B1D9203A }}
           package: '*.war'
